@@ -1,4 +1,4 @@
-# Gig Nest Restaurant Website
+# Restaurant Website
 
 A modern, responsive website for Gig Nest restaurant featuring an elegant design with earthy tones and seamless user experience.
 
