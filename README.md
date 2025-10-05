@@ -25,7 +25,3 @@ A modern, responsive website for Gig Nest restaurant featuring an elegant design
 - Interactive menu
 - Events calendar
 - Contact & reservations
-
----
-
-*Crafted with ❤️ for food enthusiasts*
